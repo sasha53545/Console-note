@@ -1,2 +1,1 @@
-# console-note
 # Console-note
